@@ -1,0 +1,2 @@
+# bettershell
+shell checking utility
